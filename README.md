@@ -8,7 +8,7 @@
 <br><br>
 ![Alt text](https://github.com/vpluma/messenger/blob/master/screenshots/messagescreen.png "Message Screen")
 <br><br>
-![Alt text](https://github.com/vpluma/messenger/blob/master/screenshots/implicit_scree.png "Implicit Intent Screen")
+![Alt text](https://github.com/vpluma/messenger/blob/master/screenshots/implicit_screen.png "Implicit Intent Screen")
 <br><br>
 ![Alt text](https://github.com/vpluma/messenger/blob/master/screenshots/sms_message.png "SMS Message Screen")
 <br><br>
