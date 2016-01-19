@@ -4,7 +4,7 @@
 <b>Deliverables:</b> Completed apps are tested on a device, presented to peers, and uploaded to GitHub for teacher review and grade.   
 <br>
 <b>Example screenshots of our completed messenger app.</b><br><br>
-<b>Messenger App Start Screen</b>&nbsp;&nbsp;/play danielsan<br><br>
+<b>Messenger App Start Screen</b>&nbsp;&nbsp;:/play danielsan:<br><br>
 ![Alt text](https://github.com/vpluma/messenger/blob/master/screenshots/startscreen.png "Start Screen")
 <br><br>
 <b>Message Screen</b>&nbsp;&nbsp;:us:<br><br>
